@@ -1,0 +1,4 @@
+pyomo>=6.7
+highspy
+matplotlib
+jupyter
